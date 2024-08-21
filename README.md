@@ -4,7 +4,8 @@
 
 Short summary on functionality and used technologies.
 
-[picture of the solution in action, if possible]
+![LabelHeader](https://github.com/user-attachments/assets/175ae7e7-acf3-4cad-8989-812fd25d24fa)
+
 
 ## Used SharePoint Framework Version
 
