@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "label-header-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/labelHeader/LabelHeaderWebPart.js",
+          "manifest": "./src/webparts/labelHeader/LabelHeaderWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "LabelHeaderWebPartStrings": "lib/webparts/labelHeader/loc/{locale}.js"
+  }
+}
